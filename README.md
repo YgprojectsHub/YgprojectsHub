@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **Angular,GraphQl**
 
-- 📫 How to reach me **ygungoruryusuf@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: ygungoruryusuf@gmail.com</h3>
 <p align="left">
 </p>
 
