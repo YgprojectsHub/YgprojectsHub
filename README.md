@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yusuf Güngörür</h1>
-<h3 align="center">I'm working on area of frontend and backend as Web developer for 2,5 years</h3>
+<h3 align="center">I'm working on area of frontend and backend as Web developer for 3 years</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ygprojectshub&label=Profile%20views&color=0e75b6&style=flat" alt="ygprojectshub" /> </p>
 
