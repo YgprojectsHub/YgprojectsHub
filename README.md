@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
-<h3 align="center">I'm working on area of full-stack as Web developer for 3.5 years</h3>
+<h3 align="center">I have been working in the full-stack field as a Web developer for 3.5 years.</h3>
 
 - 🌱 I’m currently learning **React**
 
